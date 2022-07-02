@@ -8,3 +8,5 @@ describe("Button", () => {
     render(<Button label="Hello world!" />);
   });
 });
+
+export default Button;
