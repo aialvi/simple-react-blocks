@@ -1,1 +1,1 @@
-export { default } from "./Button.spec";
+export { default } from "./Button";
