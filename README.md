@@ -32,7 +32,7 @@ import * as React from "react";
 import Button from "simple-react-blocks";
 
 function App() {
-  return <Button label="Hello world!" />;
+  return <Button text="Hello world!" size="medium" />;
 }
 ```
 
