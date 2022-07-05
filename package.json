@@ -1,6 +1,6 @@
 {
   "name": "simple-react-blocks",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A simple react component library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
